@@ -1,2 +1,3 @@
-# flask-resty-demo
-Flask-RESTy demo for FlaskCon 2020
+# Flask-RESTy Demo
+
+Flask-RESTy demo for FlaskCon 2020.

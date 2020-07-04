@@ -1,0 +1,6 @@
+Flask
+Flask-RESTy
+marshmallow
+marshmallow-sqlalchemy
+psycopg2
+SQLAlchemy
